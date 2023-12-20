@@ -1,6 +1,8 @@
 ![](/assets/pic.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&duration=7000&pause=1000&color=773BF7&multiline=true&repeat=false&random=true&width=435&lines=%23+Hello%2C+user_name" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&duration=7000&pause=1000&color=773BF7&multiline=true&repeat=true&random=true&width=435&lines=%23+Hello%2C+user_name" alt="Typing SVG" /></a>
+
+
 
 ### Information Security Engineer.
 
